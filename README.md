@@ -1,6 +1,8 @@
 # scLineageFidelity
 
-An R package for lineage fidelity analysis and Maximum Likelihood Estimation (MLE) cell type annotation of single-cell RNA sequencing data.
+An R package for lineage fidelity analysis and Maximum Likelihood Estimation (MLE) cell type annotation of single-cell RNA sequencing data. 
+
+This package re-used functions from scMCA. 
 
 scLineageFidelity is developed by Yi Zhang's lab in Institute of Genetics and Molecular Medicine, Chinese Institutes for Medical Research, Beijing, China. 
 
